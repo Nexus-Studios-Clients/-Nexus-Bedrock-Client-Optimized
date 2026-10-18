@@ -1,0 +1,1 @@
+# -Nexus-Bedrock-Client-Optimized
