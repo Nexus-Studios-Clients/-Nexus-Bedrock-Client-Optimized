@@ -1,2 +1,3 @@
 # -Nexus-Bedrock-Client-Optimized
-Client Leve da Nexus Para MCPE PE 0.14.3
+Client para Minecraft PE 0.14.3 em
+feito pela Nexus
